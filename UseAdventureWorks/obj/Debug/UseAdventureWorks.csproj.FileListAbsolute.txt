@@ -1,0 +1,11 @@
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe.config
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\bin\Debug\UseAdventureWorks.pdb
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.AdventureWorks.resources
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.exe
+C:\Users\Gebruiker\source\repos\UseAdventureWorks\obj\Debug\UseAdventureWorks.pdb

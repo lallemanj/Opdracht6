@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\bin\Debug\AandelenBeheerData.exe.config
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\bin\Debug\AandelenBeheerData.exe
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\bin\Debug\AandelenBeheerData.pdb
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\obj\Debug\AandelenBeheerData.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\obj\Debug\AandelenBeheerData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\obj\Debug\AandelenBeheerData.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\obj\Debug\AandelenBeheerData.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\obj\Debug\AandelenBeheerData.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\obj\Debug\AandelenBeheerData.exe
+C:\Users\Gebruiker\source\repos\AandelenBeheerData\obj\Debug\AandelenBeheerData.pdb

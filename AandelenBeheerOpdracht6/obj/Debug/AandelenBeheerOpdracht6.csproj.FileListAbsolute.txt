@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\bin\Debug\AandelenBeheerOpdracht6.exe.config
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\bin\Debug\AandelenBeheerOpdracht6.exe
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\bin\Debug\AandelenBeheerOpdracht6.pdb
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.exe
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.pdb
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\obj\Debug\AandelenBeheerOpdracht6.FormAandelen.resources
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\bin\Debug\AandelenBeheerData.exe
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\bin\Debug\AandelenBeheerData.pdb
+C:\Users\Gebruiker\source\repos\AandelenBeheerOpdracht6\bin\Debug\AandelenBeheerData.exe.config

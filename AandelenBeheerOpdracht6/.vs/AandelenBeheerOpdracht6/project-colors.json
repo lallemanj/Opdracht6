@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d6c1c67-3537-4d26-a45c-974d7cd042c4": {
+      "ProjectGuid": "7d6c1c67-3537-4d26-a45c-974d7cd042c4",
+      "DisplayName": "AandelenBeheerOpdracht6",
+      "ColorIndex": 0
+    },
+    "fae6ff35-245f-4a73-9b1d-d3951c1b3f70": {
+      "ProjectGuid": "fae6ff35-245f-4a73-9b1d-d3951c1b3f70",
+      "DisplayName": "AandelenBeheerData",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

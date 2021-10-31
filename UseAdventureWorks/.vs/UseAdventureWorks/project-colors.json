@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbf48cb8-3f87-4355-ad45-effb4194456a": {
+      "ProjectGuid": "dbf48cb8-3f87-4355-ad45-effb4194456a",
+      "DisplayName": "UseAdventureWorks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
